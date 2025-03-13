@@ -23,6 +23,9 @@ The final Decision Tree model achieved ***91% accuracy***, balancing performance
 Test **Random Forest** or **Gradient Boosting** for improved performance  
 Apply **feature selection techniques** to enhance model efficiency 
 
+**Loan Approval Classification Data** (used for credit risk analysis)  
+🔗 [Dataset link](https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data)  
+
 # How to Use the Model
 **Install required libraries** (if not already installed): 
 ```bash
