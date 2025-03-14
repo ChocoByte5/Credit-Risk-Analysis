@@ -23,14 +23,17 @@ The final Decision Tree model achieved ***91% accuracy***, balancing performance
 
 ### Feature Importance in Credit Risk Model
 ![Feature Importance](credi_risk_features.png)
+
 This bar chart shows the most influential features in determining loan approval. The most significant factor is previous loan defaults, followed by loan percent income and interest rate.
 
 ### Training vs Testing Accuracy
 ![Training vs Testing Accuracy](credi_risk_accuracy.png)
+
 This plot compares the model’s accuracy on training and test datasets. The model achieves around **91% accuracy**, balancing performance and generalization.
 
 ### Confusion Matrix for Credit Risk Model
 ![Confusion Matrix](matrix_credit_risk.png)
+
 The confusion matrix illustrates the model's predictions versus actual outcomes. Most predictions are correct, with a low number of false positives and false negatives.
 
 # Next Steps
